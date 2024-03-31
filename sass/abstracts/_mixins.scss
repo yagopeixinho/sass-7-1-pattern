@@ -1,0 +1,19 @@
+/*======================================================
+
+    Pattern 7-1 SASS;
+    Mixins
+    © Check repository license
+
+======================================================*/
+
+/*======================================================
+    © Buttons
+======================================================*/
+@mixin main-button-mixin-sample {
+  background-color: $main-color-1;
+  color: $main-color-light-1;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 6px;
+  @include label-1-poppins;
+}
