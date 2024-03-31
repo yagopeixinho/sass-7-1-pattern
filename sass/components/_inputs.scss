@@ -1,0 +1,90 @@
+/*======================================================
+
+    Veiaco!;
+    Inputs
+    © Check repository license
+
+======================================================*/
+
+/*======================================================
+    © Input text
+======================================================*/
+.input-text {
+  padding: 10px 0 4px 0;
+  border: none;
+  border-bottom: 1px solid $main-color-gray-4;
+  outline: none;
+  background-color: transparent;
+  @include label-1-poppins;
+  color: $main-color-dark-000;
+  font-weight: 400;
+  width: 100%;
+}
+
+/*======================================================
+    © Input number
+======================================================*/
+.input-number {
+  padding: 10px 0 4px 0;
+  border: none;
+  border-bottom: 1px solid $main-color-gray-4;
+  outline: none;
+  background-color: transparent;
+  @include label-1-poppins;
+  color: $main-color-dark-000;
+  font-weight: 400;
+  width: 100%;
+}
+
+/*======================================================
+    © Input checkbox
+======================================================*/
+.checkbox-input-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  .label-checkbox-input {
+    @include label-1-poppins;
+    color: #757575;
+  }
+
+  .input-block-checkbox {
+    display: flex;
+
+    .input-checkbox {
+      cursor: pointer;
+    }
+  }
+}
+
+/*======================================================
+    © Input select
+======================================================*/
+
+.input-select {
+  @include label-1-poppins;
+  color: #757575;
+  padding: 10px;
+  width: 100%;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  border: 1px solid $main-color-gray-4;
+  outline: none;
+}
+
+/*======================================================
+    © Input date
+======================================================*/
+.input-date {
+  padding: 10px 0 4px 0;
+  border: none;
+  border-bottom: 1px solid $main-color-gray-4;
+  outline: none;
+  background-color: transparent;
+  @include label-1-poppins;
+  color: $main-color-dark-000;
+  font-weight: 400;
+  width: 100%;
+}
