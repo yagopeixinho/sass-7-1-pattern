@@ -1,0 +1,49 @@
+/*======================================================
+
+    Pattern 7-1 SASS;
+    Side bar
+    © Check repository license
+
+   This document is just a sample of a side 
+   bar. It's important to remember that the file is
+   just a sample  and does not contain any content inside 
+   a real page on this repository.
+
+======================================================*/
+
+.side-sidebar {
+  display: grid;
+  grid-column-start: 1;
+  grid-row-start: 2;
+  grid-row-end: 4;
+  grid-column-end: 3;
+  justify-items: center;
+
+  #logo-side-bar {
+    width: 280px;
+    cursor: pointer;
+  }
+
+  .nav {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    justify-content: space-around;
+
+    .nav-links {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .container {
+      display: flex;
+      gap: 20px;
+      @include label-2-raleway;
+
+      .link {
+        color: $main-color-light-1;
+      }
+    }
+  }
+}
