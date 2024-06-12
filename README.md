@@ -1,5 +1,5 @@
 <div align="center">
-      <a href="https://medium.com/@peixinhoyago/padr%C3%A3o-7-1-sass-0f768cb31d89" target="_blank"><img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" align="center" width="120px"/></a>
+      <a href="https://dev.to/yagopeixinho/padrao-7-1-do-sass-1jl7" target="_blank"><img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" align="center" width="120px"/></a>
 </div>
 
 <h4 align="center">Arquitetura SASS para elevar o nível do seu projeto.</h4>
@@ -23,7 +23,7 @@ Como pode um elemento não ter classe, mas ainda assim ter um estilo aplicado? A
 
 Nesse meio tempo, o Brasil poderia muito bem ter sofrido 7 gols da Alemanha novamente e você ainda não finalizou essa mudança. Diferentemente do 7–1 do Brasil X Alemanhã, o Padrão 7–1 do SASS pode ete ajudar a economizar tempo e marcar um golaço na hora de abrir aquele pull request.
 
-Para continuar lendo esse artigo. [Clique aqui](https://medium.com/@peixinhoyago/padr%C3%A3o-7-1-sass-0f768cb31d89).
+Para continuar lendo esse artigo. [Clique aqui](https://dev.to/yagopeixinho/padrao-7-1-do-sass-1jl7).
 
 ## Contato
 
